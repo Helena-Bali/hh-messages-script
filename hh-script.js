@@ -6,7 +6,7 @@
     const scrollContainer = document.querySelector('.pISa3zq___chats');
 
     if (!scrollContainer) {
-        alert('Не удалось найти список чатов. Убедитесь, что вы на странице https://hh.ru/messages');
+        alert('Не удалось найти список чатов. Убедитесь, что вы на странице https://chatik.hh.ru');
         return;
     }
 
